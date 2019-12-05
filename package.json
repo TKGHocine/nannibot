@@ -1,11 +1,11 @@
 {
-    "name": "test",
-    "description": "Test",
-    "version": "1.0.0",
-    "main": "probot.js",
-    "scripts": {
-      "start": "node probot.js"
-    },
+  "name": "test",
+  "description": "atest",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.13.0"
+  }
+}
     "dependencies": {
       "array-sort": "^1.0.0",
       "ascii-data-table":"2.1.1",
